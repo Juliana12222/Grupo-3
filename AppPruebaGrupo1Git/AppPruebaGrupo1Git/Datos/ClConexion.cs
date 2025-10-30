@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Web;
+﻿using System.Data.SqlClient;
 
 namespace AppPruebaGrupo1Git.Datos
 {
@@ -12,7 +8,7 @@ namespace AppPruebaGrupo1Git.Datos
 
         public ClConexion()
         {
-            oConex = new SqlConnection("");
+            oConex = new SqlConnection("Data Source=.;Initial Catalog=Trabajo;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
         }
         public SqlConnection MtAbrirConexiom()
         {

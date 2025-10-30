@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGrupo1Git\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3D1ECB-CC46-4F79-B7FD-AF51AA4EAF00}|AppPruebaGrupo1Git\\AppPruebaGrupo1Git.csproj|c:\\users\\pc_06\\desktop\\analisis\\apppruebagrupo1git\\apppruebagrupo1git\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3D1ECB-CC46-4F79-B7FD-AF51AA4EAF00}|AppPruebaGrupo1Git\\AppPruebaGrupo1Git.csproj|solutionrelative:apppruebagrupo1git\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClConexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGrupo1Git\\AppPruebaGrupo1Git\\Datos\\ClConexion.cs",
+              "RelativeDocumentMoniker": "AppPruebaGrupo1Git\\Datos\\ClConexion.cs",
+              "ToolTip": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGrupo1Git\\AppPruebaGrupo1Git\\Datos\\ClConexion.cs",
+              "RelativeToolTip": "AppPruebaGrupo1Git\\Datos\\ClConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:28:11.676Z",
+              "EditorCaption": ""
             }
           ]
         }
