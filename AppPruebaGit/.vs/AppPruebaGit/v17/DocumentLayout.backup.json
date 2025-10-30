@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC_03\\Desktop\\visual\\AppPruebaGit\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540B24D0-7641-4A3B-A019-A23F38B26F73}|AppPruebaGit\\AppPruebaGit.csproj|c:\\users\\pc_06\\desktop\\analisis\\apppruebagit\\apppruebagit\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540B24D0-7641-4A3B-A019-A23F38B26F73}|AppPruebaGit\\AppPruebaGit.csproj|solutionrelative:apppruebagit\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540B24D0-7641-4A3B-A019-A23F38B26F73}|AppPruebaGit\\AppPruebaGit.csproj|C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\apppruebagit\\vista\\principalpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{540B24D0-7641-4A3B-A019-A23F38B26F73}|AppPruebaGit\\AppPruebaGit.csproj|solutionrelative:apppruebagit\\vista\\principalpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrincipalPage.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\AppPruebaGit\\Vista\\PrincipalPage.aspx",
+              "RelativeDocumentMoniker": "AppPruebaGit\\Vista\\PrincipalPage.aspx",
+              "ToolTip": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\AppPruebaGit\\Vista\\PrincipalPage.aspx",
+              "RelativeToolTip": "AppPruebaGit\\Vista\\PrincipalPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T12:29:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClConexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\AppPruebaGit\\Datos\\ClConexion.cs",
+              "RelativeDocumentMoniker": "AppPruebaGit\\Datos\\ClConexion.cs",
+              "ToolTip": "C:\\Users\\PC_06\\Desktop\\Analisis\\AppPruebaGit\\AppPruebaGit\\Datos\\ClConexion.cs",
+              "RelativeToolTip": "AppPruebaGit\\Datos\\ClConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:20:40.207Z",
+              "EditorCaption": ""
             }
           ]
         }

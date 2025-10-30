@@ -2,7 +2,7 @@
 using appCursosP.Modelo;
 using System.Web;
 
-namespace appCursosP.Logica
+namespace AppPruebaGit.Logica
 {
     public class ClDatoUsuarioL
     {
